@@ -1,4 +1,4 @@
-# aplicación básica de lista de tareas
+# Aplicación básica de lista de tareas
 
 ***como primer paso clonar el repositorio***
 **abrir cmd u otra consola y ejecutar el siguiente comando**
